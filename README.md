@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning: Java and Spring Boot  
 🔭 I’m working on: An image moderation / uploading app
-📫 How to reach me: [Email](mailto:choi.j.stan@gmail.com) | [LinkedIn](https://linkedin.com/in/username](https://www.linkedin.com/in/stanchoinym/))
+📫 How to reach me: [Email](mailto:choi.j.stan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/stanchoinym/)
 
 ---
 
