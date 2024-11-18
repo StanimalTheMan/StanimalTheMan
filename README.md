@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning: Java and Spring Boot  
 🔭 I’m working on: A link-sharing app  
-📫 How to reach me: [Email](mailto:you@example.com) | [LinkedIn](https://linkedin.com/in/username)
+📫 How to reach me: [Email](mailto:choi.j.stan@gmail.com) | [LinkedIn]([https://linkedin.com/in/username](https://www.linkedin.com/in/stanchoinym/))
 
 ---
 
@@ -14,8 +14,8 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StanimalTheMan&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StanimalTheMan&layout=compact&theme=dark)
 
 ---
 
