@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Stan Choi 👋
 
 🌱 I’m currently learning: Java and Spring Boot  
 🔭 I’m working on: A link-sharing app  
